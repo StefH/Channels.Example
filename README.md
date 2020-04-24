@@ -1,2 +1,2 @@
-# Channels.Example
-System.Threading.Channels.Example
+# System.Threading.Channels
+Some example code...
